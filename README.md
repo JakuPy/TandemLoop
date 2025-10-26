@@ -52,33 +52,6 @@ It integrates chat, file sharing, tasks, and notes into a unified workspace — 
 - **Themes** — dark mode by default, customizable accent colours.  
 - **Smart Notifications** — mention alerts, per-channel controls, minimal noise.
 
-## 📁 Repo Layout
-
-```
-/
-├─ website/                 # Static site for landing + docs/news
-│  ├─ assets/css/root.css
-│  ├─ assets/logo.png
-│  ├─ index.html
-│  ├─ features.html
-│  └─ news.html
-├─ server/                  # Self-hosted EXE server (placeholder for now)
-├─ clients/                 # Desktop/Mobile/Web clients (placeholder)
-└─ .github/                 # CI and GitHub templates
-```
-
-## 🛠 Getting Started
-
-### Preview the website locally
-```bash
-# From repo root
-python3 -m http.server --directory website 8080
-# or
-npx serve website
-```
-
-> The self-hosted server and clients are under active development. As these components land, setup scripts and docs will appear in `server/` and `clients/`.
-
 ## 🗺 Roadmap
 
 - **v0.1.0 — Aberdeen** – Private preview: channels, files, tasks, notes  
