@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tandemloop.app">
-    <img src="website/assets/logo.png" alt="TandemLoop logo" width="180">
+    <img src="https://tandemloop.app/assets/images/logo.png" alt="TandemLoop logo" width="180">
   </a>
 </p>
 
