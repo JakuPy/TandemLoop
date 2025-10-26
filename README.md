@@ -76,9 +76,9 @@ npx serve website
 
 ## 🗺 Roadmap
 
-- v0.1.0 – Private preview: channels, files, tasks, notes  
-- v0.2.0 – Boards (kanban), filters, swimlanes  
-- v1.0.0 – Stable public release: packaging (Docker), admin & roles, backups, integrations
+- v0.1.0 - Aberdeen – Private preview: channels, files, tasks, notes  
+- v0.2.0 - Albright – Boards (kanban), filters, swimlanes  
+- v1.0.0 - Anchor – Stable public release: packaging (Docker), admin & roles, backups, integrations
 
 ## 📝 License
 
