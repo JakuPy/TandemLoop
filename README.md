@@ -16,7 +16,7 @@
   <a href="https://tandemloop.app">
     <img alt="Website" src="https://img.shields.io/badge/Website-tandemloop.app-2BA7FF">
   </a>
-  <img alt="Status: Active Development" src="https://img.shields.io/badge/Status-Active%20Development-3D3BEC">
+  <img alt="Status: Active Private Development" src="https://img.shields.io/badge/Status-Active%20Development-3D3BEC">
   <img alt="Releases: None yet" src="https://img.shields.io/badge/Releases-None%20yet-9CA8B9">
   <a href="LICENSE.md">
     <img alt="License: TandemLoop License v1.0" src="https://img.shields.io/badge/License-TandemLoop%20License%20v1.0-2BA7FF">
