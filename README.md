@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://tandemloop.app">tandemloop.app</a> ·
   <a href="#-roadmap">Roadmap</a> ·
-  <a href="#-getting-started">Getting started</a> ·
+  <a href="#-getting-started">Getting started</a>
 </p>
 
 <p align="center">
