@@ -91,6 +91,6 @@ contact **legal@tandemloop.app** for a separate commercial license.
 
 ### Summary
 
-✅ You can: use TandemLoop for your own team or business, customize your instance.
+**✅ You can: use TandemLoop for your own team or business, customize your instance.**
 
 **❌ You can’t: resell, rebrand, or host TandemLoop as your own product or service.**
