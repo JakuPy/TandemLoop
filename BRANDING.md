@@ -1,4 +1,8 @@
-# TandemLoop Brand & Trademark Policy
+<p align="center">
+  <img src="https://tandemloop.app/assets/images/logo.png" alt="TandemLoop Logo" width="180">
+</p>
+
+<h1 align="center">TandemLoop Brand & Trademark Policy</h1>
 
 _Last updated: October 2025_
 
