@@ -80,9 +80,16 @@ npx serve website
 - v0.2.0 - Albright – Boards (kanban), filters, swimlanes  
 - v1.0.0 - Anchor – Stable public release: packaging (Docker), admin & roles, backups, integrations
 
-## 📝 License
+## ⚖️ License
 
-MIT — see [`LICENSE`](LICENSE).
+TandemLoop is **source-available software** under the [TandemLoop License v1.0](LICENSE.md).
+
+- ✅ Free for personal, business, and organizational use (self-hosted)
+- ✅ Customizable within your own instance
+- 🚫 No resale, redistribution, or rebranding
+- 🚫 No hosting as a paid or free SaaS offering
+
+For partnership or commercial licensing, contact **legal@tandemloop.app**.
 
 ---
 
