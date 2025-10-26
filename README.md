@@ -81,17 +81,6 @@ npx serve website
 - v0.2.0 – Boards (kanban), filters, swimlanes  
 - v1.0.0 – Stable public release: packaging (Docker), admin & roles, backups, integrations
 
-## 🤝 Contributing
-
-While private, contributions are limited to collaborators. When public, please open issues/PRs and see:
-- [`CONTRIBUTING.md`](CONTRIBUTING.md)  
-- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
-
-## 🔒 Security
-
-If you believe you've found a security issue, please **do not** open a public issue.  
-Email **security@tandemloop.app** with details. See [`SECURITY.md`](SECURITY.md).
-
 ## 📝 License
 
 MIT — see [`LICENSE`](LICENSE).
