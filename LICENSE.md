@@ -1,4 +1,8 @@
-# TandemLoop Software License v1.0 (2025)
+<p align="center">
+  <img src="https://tandemloop.app/assets/images/logo.png" alt="TandemLoop Logo" width="180">
+</p>
+
+<h1 align="center">TandemLoop Software License v1.0 (2025)</h1>
 
 Copyright (c) 2025 Jackson D. Kern / TandemLoop
 All rights reserved.
@@ -88,4 +92,5 @@ contact **legal@tandemloop.app** for a separate commercial license.
 ### Summary
 
 ✅ You can: use TandemLoop for your own team or business, customize your instance.
+
 **❌ You can’t: resell, rebrand, or host TandemLoop as your own product or service.**
