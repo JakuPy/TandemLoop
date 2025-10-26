@@ -6,7 +6,7 @@
 
 _Last updated: October 2025_
 
-The TandemLoop name, logo, and visual identity are trademarks of **Jackson / TandemLoop**.  
+The TandemLoop name, logo, and visual identity are trademarks of **Jackson D. Kern / TandemLoop**.  
 This document explains how these assets may — and may not — be used.
 
 ---
