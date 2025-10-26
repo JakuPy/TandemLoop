@@ -10,7 +10,6 @@
   <a href="https://tandemloop.app">tandemloop.app</a> ·
   <a href="#-roadmap">Roadmap</a> ·
   <a href="#-getting-started">Getting started</a> ·
-  <a href="#-security">Security</a>
 </p>
 
 <p align="center">
