@@ -8,8 +8,7 @@
 <p align="center"><strong>Private, self-hosted collaboration for small teams.</strong></p>
 <p align="center">
   <a href="https://tandemloop.app">tandemloop.app</a> ·
-  <a href="#-roadmap">Roadmap</a> ·
-  <a href="#-getting-started">Getting started</a>
+  <a href="#-roadmap">Roadmap</a>
 </p>
 
 <p align="center">
