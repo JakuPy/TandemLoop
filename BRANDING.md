@@ -4,6 +4,7 @@
 
 <h1 align="center">TandemLoop Brand & Trademark Policy</h1>
 
+Copyright (c) 2025 Jackson D. Kern / TandemLoop
 _Last updated: October 2025_
 
 The TandemLoop name, logo, and visual identity are trademarks of **Jackson D. Kern / TandemLoop**.  
