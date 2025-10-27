@@ -7,6 +7,8 @@
 Copyright (c) 2025 Jackson D. Kern / TandemLoop  
 All rights reserved.
 
+_Last updated: October 2025_
+
 This License governs the use, modification, and distribution of the TandemLoop
 software and any associated source code, assets, or documentation (“Software”).
 
