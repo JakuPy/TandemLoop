@@ -4,7 +4,8 @@
 
 <h1 align="center">TandemLoop Brand & Trademark Policy</h1>
 
-Copyright (c) 2025 Jackson D. Kern / TandemLoop
+Copyright (c) 2025 Jackson D. Kern / TandemLoop  
+All rights reserved.
 
 _Last updated: October 2025_
 
