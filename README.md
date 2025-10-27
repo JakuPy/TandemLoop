@@ -7,7 +7,7 @@
 <h1 align="center">TandemLoop</h1>
 <p align="center"><strong>Private, self-hosted collaboration for small teams.</strong></p>
 <p align="center">
-  <a href="https://tandemloop.app">tandemloop.app</a> ·
+  <a href="https://tandemloop.app">TandemLoop.app</a> ·
   <a href="#-roadmap">Roadmap</a> ·
   <a href="#%EF%B8%8F-license">License</a>
 </p>
