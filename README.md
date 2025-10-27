@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://tandemloop.app">tandemloop.app</a> ·
   <a href="#-roadmap">Roadmap</a> ·
-  <a href="#-license">License</a>
+  <a href="https://github.com/JakuPy/TandemLoop/tree/main?tab=License-1-ov-file">License</a>
 </p>
 
 <p align="center">
